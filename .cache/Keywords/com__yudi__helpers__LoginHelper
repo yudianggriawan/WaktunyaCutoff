@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "092C7288E61DC4A8504FBA6E5109CFF2",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.LoginHelper",
+      "keywordMethods": [
+        {
+          "name": "openCuraSite",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

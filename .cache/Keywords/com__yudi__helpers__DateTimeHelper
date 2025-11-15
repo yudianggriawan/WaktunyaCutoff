@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "2CEF509025851FF147FB24F76DB784F1",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.DateTimeHelper",
+      "keywordMethods": [
+        {
+          "name": "now",
+          "parameters": [
+            {
+              "name": "pattern",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "now",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

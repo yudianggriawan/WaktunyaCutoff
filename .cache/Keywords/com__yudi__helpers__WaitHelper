@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0C00A00C2F1A5979D72011FE823AE44F",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.WaitHelper",
+      "keywordMethods": [
+        {
+          "name": "waitForSeconds",
+          "parameters": [
+            {
+              "name": "seconds",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

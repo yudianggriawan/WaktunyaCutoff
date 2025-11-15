@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "9C251BD7BBD056F6938D7E60613D2BC3",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.ScrollHelper",
+      "keywordMethods": [
+        {
+          "name": "scrollToBottom",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

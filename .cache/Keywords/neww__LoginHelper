@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "A3474AD3EF66404F05AA179B1C67BA48",
+  "keywordClasses": [
+    {
+      "name": "neww.LoginHelper",
+      "keywordMethods": [
+        {
+          "name": "openCuraSite",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

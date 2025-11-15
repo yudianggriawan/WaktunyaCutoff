@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AI_TC_AutoGen_07</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e69d1a58-3ef3-46b7-b400-accc495b7b25</testCaseGuid>
+</TestCaseEntity>

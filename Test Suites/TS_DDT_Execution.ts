@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_DDT_Execution</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>917bfdcd-d451-419e-a643-6bed6bc1d2e0</testSuiteGuid>
+   <testCaseLink>
+      <guid>ec2d9054-218b-42df-9afc-9b55d9eca153</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'standard_user'</defaultValue>
+         <description></description>
+         <id>4f181085-7683-409f-8c22-32074b220e63</id>
+         <masked>false</masked>
+         <name>user</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>65ef0307-6997-4ad6-ac9e-944bd31c47c8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>96a4fd60-ef38-4c26-8300-701b812e25bf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0e5f465d-1beb-4b2f-9175-fc87eb19931b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>242f9c09-e5d8-43fa-b504-7433366f8a38</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>96a4fd60-ef38-4c26-8300-701b812e25bf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0e5f465d-1beb-4b2f-9175-fc87eb19931b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>856ec2bf-4b57-4d4c-98f7-2e969d0557b3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>603d97d6-4bfa-4063-aa05-b79c3bba6766</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>96a4fd60-ef38-4c26-8300-701b812e25bf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0e5f465d-1beb-4b2f-9175-fc87eb19931b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

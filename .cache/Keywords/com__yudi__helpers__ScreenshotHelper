@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "E1150506A7116E41782D1E5EFAA71BE6",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.ScreenshotHelper",
+      "keywordMethods": [
+        {
+          "name": "capture",
+          "parameters": [
+            {
+              "name": "prefix",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "capture",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

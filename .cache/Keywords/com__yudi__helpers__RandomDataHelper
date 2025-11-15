@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C000127D72B1E16CC824523B763FF5AD",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.RandomDataHelper",
+      "keywordMethods": [
+        {
+          "name": "randomEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

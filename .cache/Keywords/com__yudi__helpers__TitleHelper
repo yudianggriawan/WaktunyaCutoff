@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "BD4B46510714B15ACC16186D09FDAF05",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.TitleHelper",
+      "keywordMethods": [
+        {
+          "name": "verifyTitleContains",
+          "parameters": [
+            {
+              "name": "text",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

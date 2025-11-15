@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F08D15DA7181FE970375902B59B0F8D7",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.CloseHelper",
+      "keywordMethods": [
+        {
+          "name": "closeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

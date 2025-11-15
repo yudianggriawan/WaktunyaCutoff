@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "3DC30995FC5E323E986347CB3A674223",
+  "keywordClasses": [
+    {
+      "name": "com.yudi.helpers.NavigateHelper",
+      "keywordMethods": [
+        {
+          "name": "goTo",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
